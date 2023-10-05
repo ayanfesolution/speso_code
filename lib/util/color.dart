@@ -3,6 +3,8 @@ import 'package:flutter/material.dart';
 const kPRYCOLOUR = Color(0xFF6F5DE7);
 const kSECCOLOUR = Color(0xFF0A6375);
 const kBLKCOLOUR = Color(0xff111827);
+const kTextColor = Color.fromRGBO(61, 55, 97, 1);
+
 const kWHTCOLOUR = Color(0xFFFFFFFF);
 const kREDCOLOUR = Color(0xFFC60F0F);
 const kTransperent = Color(0x00FFFFFF);
