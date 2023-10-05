@@ -118,6 +118,7 @@ class BottomNavigationWidget extends StatelessWidget {
               name,
               style: TextStyle(
                 color: isItActive == true ? kPRYCOLOUR : kLightGray,
+                fontWeight: FontWeight.bold,
               ),
             ),
             // CircleAvatar(
